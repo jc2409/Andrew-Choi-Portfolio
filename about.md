@@ -12,7 +12,7 @@ cover:  true
 # About
 <!--author-->
 
-[<span style="display:inline-block;margin-bottom:1em;"><a href="/assets/Jaehyung_Choi_CV.pdf" download class="button" style="padding:0.5em 1.5em;background:#007acc;color:#fff;border-radius:5px;text-decoration:none;font-weight:bold;">Download my CV</a></span>]
+<span style="display:inline-block;margin-bottom:1em;"><a href="https://jc2409.github.io/Andrew-Choi-Portfolio/assets/Jaehyung_Choi_CV.pdf" download class="button" style="padding:0.7em 2.5em;background:#4fb1ba;color:#fff;border-radius:5px;text-decoration:none;font-weight:bold;">View my CV</a></span>
 
 ## Welcome to My Portfolio
 

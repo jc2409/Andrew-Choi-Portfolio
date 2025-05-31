@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Projects
-    url:               /projects/
+  - title:             Project
+    url:               /project/
   - title:             Experience
     url:               /experience/
   - title:             About

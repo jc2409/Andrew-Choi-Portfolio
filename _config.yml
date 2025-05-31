@@ -31,7 +31,7 @@ description:           >
 tagline:               A showcase of my projects, skills, and experiences—highlighting my journey and passion for creating meaningful work.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [C, C++, Python, Software Engineering, Embedded Systems, AI, Machine Learning, Edge AI]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -49,9 +49,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Projects
-    url:               /Projects/
+    url:               /projects/
   - title:             Experience
-    url:               /Experience/
+    url:               /experience/
   - title:             About
     url:               /about/
 
@@ -147,10 +147,11 @@ defaults:
       sitemap:         false
 
   # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  - scope:
+      type:            posts
+
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:

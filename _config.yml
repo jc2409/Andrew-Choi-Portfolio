@@ -299,6 +299,13 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
+  projects:
+    permalink:         /projects/:path/
+    output:            true
+  
+  experience:
+    permalink:        /experience/:path/
+    output:            true
 
 
 # File inclusion/exclusion

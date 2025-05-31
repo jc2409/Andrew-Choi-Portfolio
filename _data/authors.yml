@@ -8,19 +8,18 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+    Jaehyung Choi (Andrew Choi) is a Computer and Information student at the University of Cambridge,
+    currently gaining industry experience as a Software Engineering Intern at Arm. Passionate about writing
+    Low-Level Software and creating AI Application, he combines academic excellence with hands-on development skills 
+    to tackle real-world technology challenges.
 
   # This photo will be used in the about section
   picture:
-    path:            https://via.placeholder.com/128x128
-    # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://via.placeholder.com/128x128
-      2x:            https://via.placeholder.com/256x256
+    path:            assets/img/profile.jpeg
+    # # srcset is optional, but can be used to provide higher res versions for retina displays
+    # srcset:
+    #   1x:            https://via.placeholder.com/128x128
+    #   2x:            https://via.placeholder.com/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide

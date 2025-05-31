@@ -12,6 +12,8 @@ cover:  true
 # About
 <!--author-->
 
+[<span style="display:inline-block;margin-bottom:1em;"><a href="/assets/Jaehyung_Choi_CV.pdf" download class="button" style="padding:0.5em 1.5em;background:#007acc;color:#fff;border-radius:5px;text-decoration:none;font-weight:bold;">Download my CV</a></span>]
+
 ## Welcome to My Portfolio
 
 Hello, and thanks for visiting my website!  

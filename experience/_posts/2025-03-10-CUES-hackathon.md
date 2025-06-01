@@ -2,6 +2,7 @@
 layout:     post
 title:      "Agentic AI for Productivity: Highlights from Our 32-Hour Hackathon at Cambridge"
 sitemap: false
+excerpt_separator: <!--more-->
 hide_last_modified: true
 ---
 

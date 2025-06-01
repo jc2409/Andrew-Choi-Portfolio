@@ -2,6 +2,7 @@
 layout:     post
 title:      "Building a Blockchain Game Generator at the EasyA x Polkadot Hackathon"
 sitemap: false
+excerpt_separator: <!--more-->
 hide_last_modified: true
 ---
 

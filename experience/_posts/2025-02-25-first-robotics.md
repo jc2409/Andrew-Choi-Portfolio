@@ -2,6 +2,7 @@
 layout:     post
 title:      "Volunteering at FIRST Tech Challenge UK: Inspiring the Future of Robotics"
 sitemap: false
+excerpt_separator: <!--more-->
 hide_last_modified: true
 ---
 

@@ -2,6 +2,7 @@
 layout:     post
 title:      "Building SkyGrouper at HackUPC: A Weekend of Innovation, Collaboration, and AI"
 sitemap: false
+excerpt_separator: <!--more-->
 hide_last_modified: true
 ---
 

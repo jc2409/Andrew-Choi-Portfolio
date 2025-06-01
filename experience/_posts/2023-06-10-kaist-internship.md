@@ -2,6 +2,7 @@
 layout:     post
 title:      "My Machine Learning Internship Experience at KAIST"
 sitemap: false
+excerpt_separator: <!--more-->
 hide_last_modified: true
 ---
 

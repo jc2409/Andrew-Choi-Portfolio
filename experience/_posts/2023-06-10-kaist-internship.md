@@ -42,7 +42,7 @@ I also developed a lane detection system using footage from a GoPRO Hero11. This
 ### Demo Video
 
 <video controls width="640" height="360">
-  <source src="https://jc2409.github.io/Andrew-Choi-Portfolio/experience/images/kaist-demo.mp4" type="video/mp4">
+  <source src="../images/kaist-demo.mp4" type="video/mp4">
 </video>
 
 ### Industry Engagement

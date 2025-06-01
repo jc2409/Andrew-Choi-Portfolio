@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Volunteering at FIRST Tech Challenge UK: Inspiring the Future of Robotics"
+title:      "Agentic AI for Productivity: Highlights from Our 32-Hour Hackathon at Cambridge"
 sitemap: false
 hide_last_modified: true
 ---
 
-# Volunteering at FIRST Tech Challenge UK: Inspiring the Future of Robotics
+# Agentic AI for Productivity: Highlights from Our 32-Hour Hackathon at Cambridge
 
 ## Introduction
 

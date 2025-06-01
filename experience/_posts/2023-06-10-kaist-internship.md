@@ -5,9 +5,13 @@ sitemap: false
 hide_last_modified: true
 ---
 
+# My Machine Learning Internship Experience at KAIST
+
 ## Introduction
 
 In the summer of 2023, I had the incredible opportunity to work as a Machine Learning Research Intern at the Auto-ID Labs, KAIST in Daejeon, South Korea. Over the course of three months, I was immersed in cutting-edge AI research, deploying models on edge devices, and contributing to real-world applications. This blog post reflects on my technical journey, the challenges I faced, and the valuable lessons I learned.
+
+<!--more-->
 
 ## Projects and Contributions
 

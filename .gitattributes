@@ -1,3 +1,0 @@
-*.mov filter=lfs diff=lfs merge=lfs -text
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-experience/images/kaist-demo.mp4 filter=lfs diff=lfs merge=lfs -text

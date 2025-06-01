@@ -41,9 +41,7 @@ I also developed a lane detection system using footage from a GoPRO Hero11. This
 
 ### Demo Video
 
-<video controls width="640" height="360">
-  <source src="../images/kaist-demo.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ECbMugrpMy8?si=pbDzK2r-cGIZu1f-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Industry Engagement
 

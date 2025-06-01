@@ -14,6 +14,8 @@ About a month ago, I had the privilege of returning to the University of Cambrid
 
 ## Demonstrating AI on Arm
 
+![Cambridge Guest Lecturing](../images/cambridge-guest.png)
+
 The core of my lecture focused on showcasing how to build and deploy an AI agent on Arm-based hardware. As AI continues to evolve, so does the importance of running machine learning models efficiently on edge devices. Arm's architecture, with its energy efficiency and widespread deployment, presents a compelling platform for AI applications.
 
 During the session, I walked through the practical aspects of setting up an AI agent, from selecting the right tools and frameworks to optimizing performance on Arm CPUs. My goal was to give students a tangible sense of how theoretical concepts translate into real-world engineering challenges and solutions.

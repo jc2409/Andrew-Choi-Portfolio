@@ -70,3 +70,7 @@ I plan to build more drivers including:
 ## Conclusion
 
 This project reinforced the importance of understanding hardware at the register level. Using CMSIS rather than a high-level HAL taught me how embedded systems truly function and will make future driver development more intuitive.
+
+## GitHub Repository
+
+You can find the full source code and setup instructions on [GitHub](https://github.com/jc2409/CMSIS-STM32L4).

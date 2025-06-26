@@ -25,10 +25,10 @@
   text-align: center;
 }
 
-div.thread:empty + div.notice {
+.thread:empty + .notice {
   display: block;
 }
 
-div.thread + div.notice {
+.thread + .notice {
   display: none;
 }

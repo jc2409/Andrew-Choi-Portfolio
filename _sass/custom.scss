@@ -1,0 +1,18 @@
+.notice {
+  background-color: #dbeff1;        
+  border-left: 4px solid #4FB1BA;   
+  padding: 16px;                    
+  margin: 20px 0;                  
+  border-radius: 4px;             
+  line-height: 1.5;              
+  position: relative;           
+  text-align: center;
+}
+
+.thread:empty + .notice {
+  display: block;
+}
+
+.thread + .notice {
+  display: none;
+}

@@ -52,7 +52,7 @@ I love learning new things and enjoy documenting my projects, ideas, and learnin
   - Advanced STM32 development using CMSIS, HAL, and RTOS  
   - IoT systems with BLE and MQTT in Keil Studio  
   - Digital Signal Processing (DSP) education materials for ST boards  
-- Developed educational tools and productivity chatbots using RAG, Multi-Component Prompting (MCP), AI Agent architecture, and LangChain.  
+- Developed educational tools and productivity chatbots using RAG, Model Context Protocol (MCP), AI Agent architecture, and LangChain.  
 - Created a Python-based compliance tool for automated data validation and contract adherence notification.  
 - Built a metadata generation pipeline utilizing GPT-4o and LangChain for structured content creation.  
 - Deployed and optimized LLMs on ARM-based mobile devices through pruning and quantization techniques.  

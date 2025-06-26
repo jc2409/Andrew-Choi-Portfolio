@@ -121,6 +121,8 @@ theme_color:           rgb(25,55,71)
 # Defaults to the [System Monospace Font Stack](https://qwtel.com/posts/software/the-monospaced-system-ui-css-font-stack/).
 # font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;
 
+disqus: andrew-choi-portfolio
+
 defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
@@ -170,6 +172,10 @@ defaults:
     values:
       seo:
         type:          WebPage
+  - scope:
+      type: posts
+    values:
+      comments: true
 
 kramdown:
   math_engine:         katex

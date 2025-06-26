@@ -4,6 +4,7 @@ title:      "Agentic AI for Productivity: Highlights from Our 32-Hour Hackathon 
 sitemap: false
 excerpt_separator: <!--more-->
 hide_last_modified: true
+comments: true
 ---
 
 # Agentic AI for Productivity: Highlights from Our 32-Hour Hackathon at Cambridge

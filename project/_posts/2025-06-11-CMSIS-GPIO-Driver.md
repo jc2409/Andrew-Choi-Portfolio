@@ -4,6 +4,7 @@ title:      "Creating a GPIO and Timer Driver with CMSIS"
 sitemap: false
 excerpt_separator: <!--more-->
 hide_last_modified: true
+comments: true
 ---
 
 # Creating a GPIO and Timer Driver with CMSIS

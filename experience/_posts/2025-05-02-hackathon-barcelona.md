@@ -4,6 +4,7 @@ title:      "Building SkyGrouper at HackUPC: A Weekend of Innovation, Collaborat
 sitemap: false
 excerpt_separator: <!--more-->
 hide_last_modified: true
+comments: true
 ---
 
 # Building SkyGrouper at HackUPC: A Weekend of Innovation, Collaboration, and AI

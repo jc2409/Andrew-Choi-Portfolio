@@ -4,6 +4,7 @@ title:      "Volunteering at FIRST Tech Challenge UK: Inspiring the Future of Ro
 sitemap: false
 excerpt_separator: <!--more-->
 hide_last_modified: true
+comments: true
 ---
 
 # Volunteering at FIRST Tech Challenge UK: Inspiring the Future of Robotics

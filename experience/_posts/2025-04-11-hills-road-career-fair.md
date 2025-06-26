@@ -4,6 +4,7 @@ title:      "Inspiring the Next Generation of Engineers at Hills Road Sixth Form
 sitemap: false
 excerpt_separator: <!--more-->
 hide_last_modified: true
+comments: true
 ---
 
 # Inspiring the Next Generation of Engineers at Hills Road Sixth Form

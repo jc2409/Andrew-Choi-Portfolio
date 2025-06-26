@@ -4,6 +4,7 @@ title:      "Building an AI Agent on Arm: Returning to Cambridge as a Guest Lect
 sitemap: false
 excerpt_separator: <!--more-->
 hide_last_modified: true
+comments: true
 ---
 
 

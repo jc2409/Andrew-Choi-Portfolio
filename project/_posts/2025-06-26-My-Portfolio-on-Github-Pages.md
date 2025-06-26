@@ -7,6 +7,8 @@ hide_last_modified: true
 comments: true
 ---
 
+# Launching My Portfolio Website on GitHub Pages
+
 ## Introduction
 
 Building a personal portfolio has been on my wishlist for a while. This month I finally shipped the **first version** of my site—hosted on **GitHub Pages** and powered by the **Jekyll**. It’s still a work‑in‑progress, but it already feels good to have a single place where I can curate everything from low‑level firmware experiments to full‑stack AI applications.
@@ -88,15 +90,11 @@ Most custom styling lives in `_sass/custom.scss`. My goal was to stay opinionate
 
 ## Roadmap
 
-* **Dark‑Mode Toggle** – Using CSS variables and `prefers‑color‑scheme`.
-* **Project Filtering** – Tag‑based filtering with a pinch of vanilla JS.
 * **Analytics** – Opt‑in privacy‑minded telemetry (probably Plausible).
 * **More Posts** – Low‑level software deep‑dives, hackathon retrospectives, and AI side quests are in the pipeline.
 
 ## Conclusion
 
 This site is the living documentation of my developer journey. I’ll keep refining the design, adding posts, and experimenting with new tech. If something sparks an idea, drop a comment—I’d love to hear your feedback!
-
----
 
 *Thanks for reading, and stay tuned for the evolution!*

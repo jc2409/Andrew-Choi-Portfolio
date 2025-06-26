@@ -13,6 +13,7 @@
   }
 }
 
+
 .notice {
   background-color: #dbeff1;        
   border-left: 4px solid #4FB1BA;   
@@ -21,4 +22,9 @@
   border-radius: 4px;             
   line-height: 1.5;              
   position: relative;           
+  text-align: center;
+}
+
+#disqus_thread:empty + .notice {
+  display: block;
 }

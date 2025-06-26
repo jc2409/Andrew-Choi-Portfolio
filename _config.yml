@@ -151,7 +151,6 @@ defaults:
   # # You can use the following to enable comments on all posts.
   - scope:
       type:            posts
-
     values:
       comments:        true
 
@@ -172,10 +171,6 @@ defaults:
     values:
       seo:
         type:          WebPage
-  - scope:
-      type: posts
-    values:
-      comments: true
 
 kramdown:
   math_engine:         katex

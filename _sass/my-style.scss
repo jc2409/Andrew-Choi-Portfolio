@@ -25,6 +25,10 @@
   text-align: center;
 }
 
-#disqus_thread:empty + .notice {
+div.thread:empty + div.notice {
   display: block;
+}
+
+div.thread + div.notice {
+  display: none;
 }

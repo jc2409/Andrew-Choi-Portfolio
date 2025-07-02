@@ -43,7 +43,7 @@ I began by forking HydeJack’s demo, stripping the demo content. Tweaking `_con
 
 ### 2. Custom Styling with *Just Enough* CSS
 
-Most custom styling lives in `_sass/custom.scss`. My goal was to stay opinionated but lightweight:
+Most custom styling lives in `_sass/my-style.scss`. My goal was to stay opinionated but lightweight:
 
 ```scss
 .notice {
@@ -70,15 +70,33 @@ Most custom styling lives in `_sass/custom.scss`. My goal was to stay opinionate
 
 ```html
 <!-- _layouts/post.html (excerpt) -->
-{% if page.comments %}
-  <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.id }}';
-    };
-  </script>
-  <script src="https://{{ site.disqus_shortname }}.disqus.com/embed.js" defer></script>
+
+{% assign disqus = site.disqus | default:site.disqus_shortname %}
+{% if disqus %}
+<div class="thread" id="disqus_thread"></div>
+<div class="notice">
+    <a>Please refresh the page to view the comments.</a>
+</div>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script>!function(w, d) {
+  if (d.getElementById("disqus_thread")) {
+    if (w.DISQUS) {
+      w.DISQUS.reset({
+        reload: true,
+        config() {
+          this.page.url = w.location.href;
+          this.page.title = d.title;
+        },
+      });
+    } else {
+      w.disqus_config = function disqusConfig() {
+        this.page.url = w.location.href;
+        this.page.title = d.title;
+      };
+      w.loadJSDeferred(d.getElementById("_hrefDisqus").href + '/embed.js');
+    }
+  }
+}(window, document);</script>
 {% endif %}
 ```
 
@@ -97,4 +115,4 @@ Most custom styling lives in `_sass/custom.scss`. My goal was to stay opinionate
 
 This site is the living documentation of my developer journey. I’ll keep refining the design, adding posts, and experimenting with new tech. If something sparks an idea, drop a comment—I’d love to hear your feedback!
 
-*Thanks for reading, and stay tuned for the evolution!*
+> *Thanks for reading, and stay tuned for the evolution!*

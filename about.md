@@ -40,7 +40,7 @@ I love learning new things and enjoy documenting my projects, ideas, and learnin
 *Almaty, Kazakhstan*  
 *September 2018 – August 2020*  
 - Studied A Levels in **Mathematics**, **Further Mathematics**, and **Physics**  
-- Achieved **4 A\*** grades
+- Achieved **3 A\*** grades
 
 
 ## Experience

@@ -55,6 +55,6 @@ As AI scales, the conversation around the silicon powering these systems becomes
 
 If you’re building at the intersection of AI and hardware — or you’re a student, researcher, or developer interested in working with Claude — let’s connect.
 
-![Claude Ambassadors](../images/claude-ambassador.jpg)
-
 The best is yet to come.
+
+![Claude Ambassadors](../images/claude-ambassador.jpg)

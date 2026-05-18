@@ -1,60 +1,80 @@
 ---
 layout:     post
-title:      "From Cambridge Labs to Real-World AI: Reflections on Being a Claude Ambassador"
+title:      "Building an AI Community at Cambridge: My Journey as a Claude Ambassador"
 sitemap: false
 excerpt_separator: <!--more-->
 hide_last_modified: true
 comments: true
 ---
 
-# From Cambridge Labs to Real-World AI: Reflections on Being a Claude Ambassador
+# Building an AI Community at Cambridge: My Journey as a Claude Ambassador
 
-When I first became a Claude Ambassador at the University of Cambridge, I had one goal: make cutting-edge AI tools feel accessible to everyone — not just Computer Scientists.
+When I first joined the Claude Ambassador programme at the University of Cambridge, I had a simple goal: make advanced AI tools feel approachable and accessible to everyone — not just Computer Scientists.
 
-Over the past two terms, I’ve had the privilege of turning that ambition into reality.
+Over the past two academic terms, that goal evolved into something much bigger than I initially imagined.
 
-350+ sign-ups. 10+ workshops. 2 hackathons. Countless “aha” moments.
+What started as a small initiative quickly grew into a vibrant community of students, researchers, and builders eager to explore the future of AI together. Across the year, we organised more than 10 workshops, hosted 2 hackathons, and welcomed over 350 sign-ups from students across a wide range of disciplines.
 
-From the moment we launched the programme in Michaelmas term, the response was overwhelming. More than 350 students, researchers, and builders signed up — a clear signal that the Cambridge community was eager to learn, experiment, and create with AI in a meaningful way.
+More importantly, we created a space where people felt empowered to experiment, build, and learn.
 
 <!--more-->
 
-## What We Built Together
+## Creating Hands-On AI Experiences
 
-Across the year, we ran workshops covering some of the most exciting frontier topics in AI today: AI Agents, the Model Context Protocol (MCP), building MCP applications, and hands-on sessions with Claude Code.
+One thing I wanted to avoid from the beginning was making the programme feel overly theoretical. AI is best understood by building with it directly.
+
+Our workshops focused heavily on practical, hands-on learning experiences. We explored topics such as AI Agents, the Model Context Protocol (MCP), MCP application development, and building workflows using Claude Code.
+
+Rather than traditional lecture-style sessions, the workshops encouraged participants to actively prototype ideas, test tools, and collaborate with others. The goal was not just to explain how modern AI systems work, but to help people gain confidence using them to solve real problems.
+
+Seeing students from different academic backgrounds engage with these technologies was one of the most rewarding parts of the experience.
 
 ![Claude Workshop](../images/claude-workshop.jpg)
 
-These weren’t passive lectures. They were highly practical, collaborative sessions focused on building real systems and understanding how modern AI tools can be applied beyond theory.
+## The Hackathons
 
-But the hackathons were where the energy truly came alive.
+The highlight of the programme was undoubtedly the hackathons.
 
-In our first hackathon, participants explored what it means to build with Claude AI Agents — and the projects were genuinely impressive. In the second, teams were challenged to build complete end-to-end products with real social impact in just 8 hours. The creativity, technical depth, and execution exceeded every expectation I had.
+Our first hackathon focused on building applications powered by Claude AI Agents. Participants experimented with autonomous workflows, multi-step reasoning systems, and creative AI-powered products. The quality of ideas and technical execution exceeded all expectations.
+
+For the second hackathon, we raised the challenge even further: build a complete end-to-end product with meaningful social impact in just 8 hours.
+
+The atmosphere throughout the event was incredible. Teams rapidly moved from brainstorming ideas to deploying fully functional prototypes within a single day. What stood out most was not only the technical ambition of the projects, but also the diversity of participants contributing to them.
 
 ![Claude Hackathon](../images/claude-hackathon1.jpg)
 
-## The Moment That Stayed With Me
+## Breaking Down the Barrier to Building
 
-The most meaningful part of this experience wasn’t a polished demo or a winning project. It was seeing who showed up and what they were able to create.
+One of the most memorable moments for me came from observing who was able to build with these tools.
 
-A 9-year-old built their own application using Claude Code.
+A 9-year-old participant created their own application using Claude Code.
 
-A humanities student with no formal Computer Science background built and deployed their own game using AI.
+A humanities student with no formal Computer Science background successfully built and deployed an AI-powered game.
 
-That’s the promise of this technology. The barrier to building is no longer a CS degree — it’s curiosity, creativity, and access to the right tools.
+Experiences like these reinforced something I strongly believe about modern AI tooling: the barrier to creating software is changing rapidly.
+
+Today, building impactful technology increasingly depends less on traditional technical backgrounds alone and more on curiosity, creativity, and the willingness to experiment. AI tools are lowering the friction between ideas and execution, allowing more people than ever to participate in building technology.
+
+That shift is incredibly exciting to witness firsthand.
 
 ![Claude Hackathon 2](../images/claude-hackathon2.jpg)
 
-## What’s Next
+## Looking Ahead
 
-While my contract with Anthropic is coming to a close, my relationship with Claude and the Cambridge AI community certainly is not. I’ll continue building, learning, and helping more people discover what’s possible with AI.
+Although my formal contract with Anthropic is coming to an end, this experience has only strengthened my interest in the future of AI communities, developer education, and emerging technologies.
 
-I’m also excited to share that I’ll be joining as an Arm Ambassador, where I’ll be exploring how hardware accelerates AI development and championing Arm’s work on energy-efficient computing in the data centre race.
+I’m also excited to begin a new chapter as an Arm Ambassador, where I’ll explore the intersection of AI and hardware acceleration. As AI systems continue to scale globally, efficient computing infrastructure and semiconductor innovation will become increasingly important topics.
 
-As AI scales, the conversation around the silicon powering these systems becomes more important than ever. I’m excited to help bridge those worlds: software and hardware, models and chips, Cambridge and the broader global AI ecosystem.
+I’m particularly interested in how advances in hardware can enable more sustainable, accessible, and energy-efficient AI systems — and how software and hardware communities can collaborate more closely moving forward.
 
-If you’re building at the intersection of AI and hardware — or you’re a student, researcher, or developer interested in working with Claude — let’s connect.
+Looking back, the most valuable part of this journey was never just the workshops or the events themselves. It was seeing people realise that they were capable of building things they previously thought were out of reach.
 
-The best is yet to come.
+And I believe this is only the beginning.
 
 ![Claude Ambassadors](../images/claude-ambassador.jpg)
+
+## Final Thoughts
+
+The pace of progress in AI can sometimes feel overwhelming, but one thing gives me confidence about the future: communities.
+
+When people are given access to the right tools, guidance, and opportunities to collaborate, incredible things happen. I’m grateful to everyone who participated in the workshops, hackathons, and discussions throughout the year, and I’m excited to continue building and contributing to this space in the future.
